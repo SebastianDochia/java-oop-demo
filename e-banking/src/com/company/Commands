@@ -1,0 +1,3 @@
+java com/company/EBanking
+javac ./com/company/*.java -d .
+
